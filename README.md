@@ -15,5 +15,10 @@ A responsive and modern Farsi website for an online payment gateway, showcasing 
 - CSS3 (Responsive Design, Media Queries)
 - JavaScript (Optional for dynamic interactions)
 
+  ## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Soudabeh-Noorollahi/ZarinPal-WebClone.git
 
-https://github.com/Soudabeh-Noorollahi/ZarinPal-WebClone.git
+
+
